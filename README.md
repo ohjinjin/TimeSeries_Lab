@@ -10,3 +10,7 @@ Additional self-practice in this regard : [https://github.com/ohjinjin/TimeSerie
 ## Lab2
 a practice for applying **Simple exponential smoothing using 'forecast' package.**<br/>
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple.ipynb)<br/>
+
+## Lab3
+a practice for applying **Simple exponential smoothing using 'fpp2' package.**<br/>
+link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb)<br/>
