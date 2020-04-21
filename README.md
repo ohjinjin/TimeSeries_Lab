@@ -16,5 +16,5 @@ a practice for applying **Simple exponential smoothing using 'fpp2' package.**<b
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb)<br/>
 
 ## Lab4
-a practice for applying **Simple exponential smoothing using 'fpp2' package.**<br/>
+a practice for applying **Holt's linear trend method 'fpp2' package.**<br/>
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb)<br/>
