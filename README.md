@@ -16,5 +16,10 @@ a practice for applying **Simple exponential smoothing using 'fpp2' package.**<b
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple2.ipynb)<br/>
 
 ## Lab4
-a practice for applying **Holt's linear trend method 'fpp2' package.**<br/>
+a practice for applying **Holt's linear trend method using 'fpp2' package.**<br/>
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb)<br/>
+
+## Lab5
+practices for applying **Holts' Winters' seasonal method using own data and 'austourists' data of 'fpp2' package**<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method2.ipynb)<br/>
