@@ -20,6 +20,12 @@ a practice for applying **Holt's linear trend method using 'fpp2' package.**<br/
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt's_linear_trend_method.ipynb)<br/>
 
 ## Lab5
-practices for applying **Holts' Winters' seasonal method using own data and 'austourists' data of 'fpp2' package**<br/>
+practices for applying **Holt's Winters' seasonal method using own data and 'austourists' data of 'fpp2' package.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Holt-Winters'%20seasonal%20method2.ipynb)<br/>
+
+## Lab6
+practices for applying **ETS using 'austourists' data of 'fpp2' package.**<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_example.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_example.ipynb)<br/>
+for comparing ETS(MAM) and Holt's Winters' multiplicative method..
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_vs_HW_example.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_vs_HW_example.ipynb)<br/>
