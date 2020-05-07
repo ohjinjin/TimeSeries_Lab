@@ -1,5 +1,6 @@
 # TimeSeries_Lab
 This repository is for storing lab tasks for time series analysis, an undergraduate class.<br/>
+posting url : [https://ohjinjin.github.io/dataanalysis/time-series-1/](https://ohjinjin.github.io/dataanalysis/time-series-1/)<br/>
 
 # Index
 ## Lab1
