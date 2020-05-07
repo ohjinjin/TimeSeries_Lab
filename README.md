@@ -29,3 +29,8 @@ practices for applying **ETS using 'austourists' data of 'fpp2' package.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_example.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_example.ipynb)<br/>
 for comparing ETS(MAM) and Holt's Winters' multiplicative method..
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_vs_HW_example.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ETS_vs_HW_example.ipynb)<br/>
+
+## Lab7
+practices for comparing **ETS and All of exponential methods.**<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_1.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_2.ipynb)<br/>
