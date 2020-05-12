@@ -39,3 +39,9 @@ link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ses_vs_ets.ipynb]
 practices for comparing **ETS and All of exponential methods.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_1.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of_exponential_smoothing_method_wih_ets_2.ipynb)<br/>
+
+
+## Lab9
+Practice for decomposing data variance components_Among them, **the_trend-cycle_component.**<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb)<br/>
