@@ -49,4 +49,4 @@ link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposi
 
 ## Lab10
 Practice for decomposing via **classical decomposition.**<br/>
-link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb(https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb)<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/classical_decomposition.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/classical_decomposition.ipynb)<br/>
