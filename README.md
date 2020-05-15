@@ -45,3 +45,8 @@ link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/comparing_all_of
 Practice for decomposing data variance components_Among them, **the_trend-cycle_component.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb)<br/>
+link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb)<br/>
+
+## Lab10
+Practice for decomposing via **classical decomposition.**<br/>
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb(https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb)<br/>
