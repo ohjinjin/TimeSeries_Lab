@@ -11,6 +11,8 @@ Additional self-practice in this regard : [https://github.com/ohjinjin/TimeSerie
 ## Lab2
 a practice for applying **Simple exponential smoothing using 'forecast' package.**<br/>
 link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/simple_exponential_smoothing_exmaple.ipynb)<br/>
+a practice for finding **optimal alpha value in Simple Exponential Smoothing.**<br/>
+link : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/find_optimal_alpha_in_ses.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/find_optimal_alpha_in_ses.ipynb)<br/>
 
 ## Lab3
 a practice for applying **Simple exponential smoothing using 'fpp2' package.**<br/>
