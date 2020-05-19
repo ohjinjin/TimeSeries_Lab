@@ -45,11 +45,16 @@ link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/compare_ses_vs_e
 
 
 ## Lab9
-Practice for decomposing data variance components_Among them, **the_trend-cycle_component.**<br/>
+practices for decomposing data variance components_Among them, **the_trend-cycle_component.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component1.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/decomposition_ex1_MovingAverage_for_the_trend-cycle_component2.ipynb)<br/>
 link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/ma_for_decomposition.ipynb)<br/>
 
 ## Lab10
-Practice for decomposing via **classical decomposition.**<br/>
+a practice for decomposing via **classical decomposition.**<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/classical_decomposition.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/classical_decomposition.ipynb)<br/>
+
+## Lab11
+practices for fitting data on **Average method, Naive method, Seasonal naive method and Drift method.**(well\-known as benchmark)
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_1.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_2.ipynb)<br/>
