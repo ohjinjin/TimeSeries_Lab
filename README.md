@@ -58,3 +58,9 @@ link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/classical_decomp
 practices for fitting data on **Average method, Naive method, Seasonal naive method and Drift method.**(well\-known as benchmark)
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_1.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_2.ipynb)<br/>
+
+
+## Mid Term
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_1.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_2.ipynb)<br/>
+link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_3.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_3.ipynb)<br/>
