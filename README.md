@@ -64,3 +64,7 @@ link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/benchmark_2.ipyn
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_1.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_2.ipynb)<br/>
 link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_3.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_3.ipynb)<br/>
+
+## Lab12
+practices for fitting ARIMA.
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb)<br/>
