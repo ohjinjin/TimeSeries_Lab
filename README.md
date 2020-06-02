@@ -69,3 +69,4 @@ link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/midterm_3.ipynb]
 practices for fitting ARIMA.<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/White_noise.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/White_noise.ipynb)<br/>
+link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb)<br/>
