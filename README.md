@@ -70,3 +70,5 @@ practices for fitting ARIMA.<br/>
 link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_Process.ipynb)<br/>
 link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/White_noise.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/White_noise.ipynb)<br/>
 link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb)<br/>
+link4 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_to_Stationarity_Series.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_to_Stationarity_Series.ipynb)<br/>
+link5 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/stationary_series_diff,log.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/stationary_series_diff,log.ipynb)<br/>
