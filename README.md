@@ -72,3 +72,7 @@ link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/White_noise.ipyn
 link3 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_drift_term.ipynb)<br/>
 link4 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_to_Stationarity_Series.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/Random_Walk_to_Stationarity_Series.ipynb)<br/>
 link5 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/stationary_series_diff,log.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/stationary_series_diff,log.ipynb)<br/>
+link6 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_checkresiduals_of_randomwalks.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_checkresiduals_of_randomwalks.ipynb)<br/>
+link7 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ACF_PACF.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ACF_PACF.ipynb)<br/>
+link8: [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_kpss.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_kpss.ipynb)<br/>
+link9 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ljungbox.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ljungbox.ipynb)<br/>
