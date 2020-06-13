@@ -77,6 +77,6 @@ link7 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ACF_PACF.ipy
 link8: [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_kpss.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_kpss.ipynb)<br/>
 link9 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ljungbox.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ljungbox.ipynb)<br/>
 link10 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ar.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_ar.ipynb)<br/>
-link11 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/box_jenkins_with_benchmark.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/box_jenkins_with_benchmark.ipynb)<br/>
+link11 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/AR_box_jenkins_with_benchmark.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/AR_box_jenkins_with_benchmark.ipynb)<br/>
 link12 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_simulation.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_simulation.ipynb)<br/>
 link13 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb)<br/>
