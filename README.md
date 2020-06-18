@@ -81,3 +81,4 @@ link11 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/AR_box_jenkins_
 link12 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_simulation.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_simulation.ipynb)<br/>
 link13 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb)<br/>
 link14 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arma.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arma.ipynb)<br/>
+link15 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arima.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arima.ipynb)<br/>
