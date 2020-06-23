@@ -82,3 +82,5 @@ link12 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_simulation.i
 link13 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/MA_box_jenkins_with_benchmark.ipynb)<br/>
 link14 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arma.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arma.ipynb)<br/>
 link15 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arima.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_arima.ipynb)<br/>
+link16 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_seasonalARIMA.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_seasonalARIMA.ipynb)<br/>
+link15 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_seasonalARIMA_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_seasonalARIMA_2.ipynb)<br/>
