@@ -87,3 +87,8 @@ link17 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_seasonalARI
 link18 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/arima_with_boxjenkins.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/arima_with_boxjenkins.ipynb)<br/>
 link19 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_forecast_combination.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/lab_forecast_combination.ipynb)<br/>
 link20 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/evaluate_via_cross_validation.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/evaluate_via_cross_validation.ipynb)<br/>
+
+
+## Final
+link1 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/final_1.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/final_1.ipynb)<br/>
+link2 : [https://github.com/ohjinjin/TimeSeries_Lab/blob/master/final_2.ipynb](https://github.com/ohjinjin/TimeSeries_Lab/blob/master/final_2.ipynb)<br/>
